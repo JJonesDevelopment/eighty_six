@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "549976609316",
+    "project_id": "eightysix-b112a",
+    "storage_bucket": "eightysix-b112a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549976609316:android:699bd0a96914a1cebdbeb1",
+        "android_client_info": {
+          "package_name": "com.example.eighty_six"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549976609316-6e26bvg3gtfrc2atbcp1ch8ccr9lt8jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR6IFcEou69keRppRotZYTza10N-gS72A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549976609316-6e26bvg3gtfrc2atbcp1ch8ccr9lt8jt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549976609316-c48vkabsum73idff9ie80qn565h95srm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eightySix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
